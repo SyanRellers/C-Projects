@@ -1,8 +1,8 @@
-## About
+# About
 
-C program of micro-version of Facebook using Hash Tables and Linked Lists.
+    • C program of micro-version of Facebook using Hash Tables and Linked Lists.
 
-# Input
+### Input
 
 Program accepts from input a sequence of commands of the following forms, one command to a line, such as:
 
@@ -16,7 +16,7 @@ Program accepts from input a sequence of commands of the following forms, one co
     print “Yes”; if not, print “No”
     • X – terminate the program.
 
-# Operation Time Complexity
+### Operation Time Complexity
 
     • The command “L” takes time proportional to the number of friends that the person has. 
     • The command “U” should execute in time proportional to the sum of the friends that the two named people have. 
@@ -25,8 +25,8 @@ Program accepts from input a sequence of commands of the following forms, one co
 NOTE: All these commands execute in time that is independent of the total number of people in
 the system.
 
-# Run Specifications
+### Run Specifications
 
-• All the entries saved in memory.
-• Program compiles using gcc on a unix/lunix machine. 
+    • All the entries saved in memory.
+    • Program compiles using gcc on a unix/lunix machine. 
 
