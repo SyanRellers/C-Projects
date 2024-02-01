@@ -19,7 +19,7 @@ Program accepts from input a sequence of commands of the following forms, one co
 ### Operation Time Complexity
 
     • The command “L” takes time proportional to the number of friends that the person has. 
-    • The command “U” should execute in time proportional to the sum of the friends that the two named people have. 
+    • The command “U” executes in time proportional to the sum of the friends that the two named people have. 
     • The commands “P”, “F”, and “Q” execute in a constant time.
 
 NOTE: All these commands execute in time that is independent of the total number of people in
